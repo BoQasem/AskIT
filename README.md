@@ -11,7 +11,9 @@ This saves time for employees, and by collecting questions, we can later improve
 ---
 
 ## 🎬 Demo
-A demo video is available in the file: **AskIT_demo.mp4**
+A demo video is available in the file: **AskIT_demo.mp4** 
+
+[Click here to view the demo video](https://github.com/user-attachments/assets/5076d92b-e39e-42d6-bf2e-b2336ab9ba96)
 
 ---
 

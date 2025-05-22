@@ -1,0 +1,6 @@
+@AskIT_HostAddress = http://localhost:5203
+
+GET {{AskIT_HostAddress}}/whatsapp/
+Accept: application/json
+
+###
